@@ -68,7 +68,7 @@ Your submission will be assessed based on the following:
 
 
 ### Example Query
-Search for the keyword **"Action":**
+Search for the keyword **"Joker":**
 ```http
 GET https://www.filimo.com/api/en/v1/movie/movie/list/tagid/1000300/text/Joker/sug/on
 ```
